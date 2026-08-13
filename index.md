@@ -1,5 +1,3 @@
-神楽坂愛蘭的主页
-
 ![神楽坂愛蘭的主页](slbaldzy.png)
 
 [![我的博客](blog.png)](blog.md)
