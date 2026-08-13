@@ -1,10 +1,10 @@
 ![神楽坂愛蘭的主页](slbaldzy.png)
 
-<table style="border-collapse: collapse; border: none";>
+<table style="border-collapse: collapse; border: 0;">
   <tr>
-    <td style="border: none;"><img src="bks.png" ></td>
-    <td style="border: none;"><img src="dms.png" ></td>
-    <td style="border: none;"><img src="zps.png" ></td>
+    <td style= "border: 0;"><img src="bks.png" ></td>
+    <td style= "border: 0;"><img src="dms.png" ></td>
+    <td style= "border: 0;"><img src="zps.png" ></td>
   </tr>
 </table>
 
