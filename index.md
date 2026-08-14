@@ -2,7 +2,7 @@
 
 <table style="border-collapse: collapse; border: 0;">
   <tr>
-    <td style= "border: 0;"><img src="bks.png" ></td>
+    <td style= "border: 0;"><a href="blog.md"><img src="bks.png" ></a></td>
     <td style= "border: 0;"><img src="dms.png" ></td>
     <td style= "border: 0;"><img src="zps.png" ></td>
   </tr>
