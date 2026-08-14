@@ -7,7 +7,3 @@
     <td style= "border: 0;"><a href="work.md"><img src="zps.png" ></a></td>
   </tr>
 </table>
-
-![叶林的平行世界](pxsj.png)
-
-[叶林的平行世界](parallel_world/index.md)
