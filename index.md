@@ -3,8 +3,8 @@
 <table style="border-collapse: collapse; border: 0;">
   <tr>
     <td style= "border: 0;"><a href="blog.md"><img src="bks.png" ></a></td>
-    <td style= "border: 0;"><img src="dms.png" ></td>
-    <td style= "border: 0;"><img src="zps.png" ></td>
+    <td style= "border: 0;"><a href="code.md"><img src="dms.png" ></a></td>
+    <td style= "border: 0;"><a href="work.md"><img src="zps.png" ></a></td>
   </tr>
 </table>
 
