@@ -1,3 +1,5 @@
 ![神楽坂愛蘭的主页](slbaldzy.png)
 
-[![博客竖](bks.png)](blog.md)[![代码竖](dms.png)](code.md)[![作品竖](zps.png)](work.md)
+[博客](blog.md)
+[代码](code.md)
+[作品竖](work.md)
