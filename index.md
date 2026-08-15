@@ -7,3 +7,5 @@
     <td style= "border: 0;"><a href="work.md"><img src="zps.png" ></a></td>
   </tr>
 </table>
+
+[![博客竖](bks.png)](blog.md)[![代码竖](dms.png)](code.md)[![作品竖](zps.png)](work.md)
